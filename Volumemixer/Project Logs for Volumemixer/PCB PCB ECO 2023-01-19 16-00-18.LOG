@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=Pot1 Pin=R5-2
+Removed Pin From Net: NetName=Pot1 Pin=R5-2
+Removed Pin From Net: NetName=Pot1 Pin=R5-2
+Removed Pin From Net: NetName=Pot2 Pin=R6-2
+Removed Pin From Net: NetName=Pot2 Pin=R6-2
+Removed Pin From Net: NetName=Pot2 Pin=R6-2
+Removed Pin From Net: NetName=Pot3 Pin=R7-2
+Removed Pin From Net: NetName=Pot3 Pin=R7-2
+Removed Pin From Net: NetName=Pot3 Pin=R7-2
+Removed Pin From Net: NetName=Pot3 Pin=R17-2
+Removed Pin From Net: NetName=Pot3 Pin=R17-2
+Removed Pin From Net: NetName=Pot3 Pin=R17-2
+Added Pin To Net: NetName=Pot3 Pin=R6-2
+Added Pin To Net: NetName=Pot3 Pin=R6-2
+Added Pin To Net: NetName=Pot3 Pin=R6-2
+Added Pin To Net: NetName=Pot2 Pin=R7-2
+Added Pin To Net: NetName=Pot2 Pin=R7-2
+Added Pin To Net: NetName=Pot2 Pin=R7-2
+Added Pin To Net: NetName=Pot1 Pin=R17-2
+Added Pin To Net: NetName=Pot1 Pin=R17-2
+Added Pin To Net: NetName=Pot1 Pin=R17-2
+Added Pin To Net: NetName=Pot4 Pin=R5-2
+Added Pin To Net: NetName=Pot4 Pin=R5-2
+Added Pin To Net: NetName=Pot4 Pin=R5-2
+Added Net: Name=Pot4

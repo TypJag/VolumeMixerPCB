@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Add Component: Footprint Not Found HUSRSP4W64P254_1016X254X854P
+Add Component: Footprint Not Found P0915NFC15BR10K
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Class Member: Failed to add class member : Component J2 61000418321
+Add Class Member: Failed to add class member : Component S4 P0915N-FC15BR10K

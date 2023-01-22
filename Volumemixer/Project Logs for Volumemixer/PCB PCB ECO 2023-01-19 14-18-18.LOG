@@ -1,0 +1,25 @@
+Add Component: Footprint Not Found HUSRSP4W64P254_1016X254X854P
+Added Component: Designator=R?(P0915NFC15BR10K)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "P0915N-FC15BR10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/p0915n-fc15br10k/bi-technologies?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/b6f9aacdbf7d1767bdcee7cb40d23820.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TT Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P0915N-FC15BR10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "858-P0915N-FC15BR10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=858-P0915N-FC15BR10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found P0915NFC15BR10K
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=Pot3 Pin=R?-2
+Added Pin To Net: NetName=Pot3 Pin=R?-2
+Added Pin To Net: NetName=Pot3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=R?-3
+Add Class Member: Failed to add class member : Component J2 61000418321
+Added Member To Class: ClassName=Sheet1 Member=Component R? Pot 10k
+Add Class Member: Failed to add class member : Component S4 P0915N-FC15BR10K
