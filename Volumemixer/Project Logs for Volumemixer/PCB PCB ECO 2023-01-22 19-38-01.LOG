@@ -1,6 +1,0 @@
-Removed Member From Class: ClassName=Diff USB Member=USB_D+
-Removed Member From Class: ClassName=Diff USB Member=USB_D-
-Added Pin To Net: NetName=USB_D_P Pin=R1-2
-Added Pin To Net: NetName=USB_D_N Pin=R2-2
-Added Member To Class: ClassName=Diff USB Member=Wire USB_D_N
-Added Member To Class: ClassName=Diff USB Member=Wire USB_D_P
