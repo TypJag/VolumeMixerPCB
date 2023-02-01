@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=3V3 Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=3V3 Pin=C11-2
+Removed Member From Class: ClassName=Sheet1 Member=C9
+Removed Member From Class: ClassName=Sheet1 Member=C11
+Removed Member From Class: ClassName=Diff USB Member=NetIC2_46
+Removed Member From Class: ClassName=Diff USB Member=NetIC2_47
+Change Component Footprint: Designator=C10 Old Footprint=C1005_Commercial New Footprint=CAPC1005X06N Modified for deadbug - duplicate
+Change Component Footprint: Designator=C8 Old Footprint=CAPC1005X55N New Footprint=2x CAPC1005X06N Modified for deadbug
+Change Component Footprint: Designator=C7 Old Footprint=CAPC1005X55N New Footprint=3x CAPC1005X06N Modified for deadbug - duplicate
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1005X55N New Footprint=CAPC1005X06N Modified for deadbug - duplicate
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1005X55N New Footprint=CAPC1005X06N Modified for deadbug - duplicate
+Change Component Footprint: Designator=C6 Old Footprint=CAPC1005X55N New Footprint=CAPC1005X06N Modified for deadbug - duplicate
+Change Component Footprint: Designator=IC2 Old Footprint=QFN40P700X700X90-57N-D RP2040 Liu special New Footprint=QFN40P700X700X90-57N-D
+Change Net Name : Old Net Name=NetIC2_46 New Net Name=USB_D_RP_N
+Change Net Name : Old Net Name=NetIC2_47 New Net Name=USB_D_RP_P
+Added Differential Pair: Name=USB_D_RP
+Added Member To Class: ClassName=Sheet1 Member=Component R3 ERJ-3EKF1001V
+Added Member To Class: ClassName=Sheet1 Member=Component R4 ERJ-3EKF1001V
+Added Member To Class: ClassName=Diff USB Member=Wire USB_D_RP_N
+Added Member To Class: ClassName=Diff USB Member=Wire USB_D_RP_P
+Added Member To Class: ClassName=USB90Ohm Member=USB_D_RP
