@@ -2,6 +2,8 @@
 FileName = PCB.PcbDoc
 ODB++ directory structure
 *************************************************************
+Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\matrix\matrix
+
 Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\profile
 
 Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\stephdr
@@ -12,9 +14,9 @@ Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Proje
 
 Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\dielectric_1\attrlist
 
-Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\bottom_solder\features
+Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\mechanical_4\features
 
-Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\bottom_solder\attrlist
+Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\mechanical_4\attrlist
 
 Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\drill_plated_bottom-top\features
 
@@ -22,9 +24,9 @@ Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Proje
 
 Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 
-Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\mechanical_4\features
+Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\bottom_solder\features
 
-Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\mechanical_4\attrlist
+Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\bottom_solder\attrlist
 
 Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\top_solder\features
 
@@ -43,6 +45,4 @@ Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Proje
 Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\comp_+_top\components
 
 Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\eda\data
-
-Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\matrix\matrix
 

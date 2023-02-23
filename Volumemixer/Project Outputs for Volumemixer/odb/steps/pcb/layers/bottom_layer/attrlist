@@ -13,6 +13,5 @@ UNITS=MM
 .out_comp = 0.000000
 .et_adjacency = 508.000000
 .layer_dielectric = 0.01016
-.copper_weight = 35.56
-.dielectric_constant = 1
+.copper_weight = 17.501
 
