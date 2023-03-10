@@ -1,7 +1,6 @@
 Output: ODB++ Files
 Type  : ODB
 From  : Variant [[No Variations]] of Project [Volumemixer.PrjPcb]
-   Generated File[matrix]
    Generated File[profile]
    Generated File[stephdr]
    Generated File[features]
@@ -16,10 +15,11 @@ From  : Variant [[No Variations]] of Project [Volumemixer.PrjPcb]
    Generated File[components]
    Generated File[data]
    Generated File[netlist]
+   Generated File[matrix]
    Generated File[PCB.REP]
 
 
 Files Generated   : 16
 Documents Printed : 0
 
-Finished Output Generation At 21:38:36 On 2023-02-23
+Finished Output Generation At 14:42:55 On 2023-02-24

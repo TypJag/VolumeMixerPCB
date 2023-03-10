@@ -2,8 +2,6 @@
 FileName = PCB.PcbDoc
 ODB++ directory structure
 *************************************************************
-Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\matrix\matrix
-
 Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\profile
 
 Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\stephdr
@@ -28,13 +26,13 @@ Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Proje
 
 Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\bottom_solder\attrlist
 
-Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\top_solder\features
-
-Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\top_solder\attrlist
-
 Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\bottom_layer\features
 
 Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\top_solder\attrlist
 
 Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\top_layer\features
 
@@ -45,4 +43,6 @@ Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Proje
 Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\layers\comp_+_top\components
 
 Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\Axel\Documents\GitHub\VolumeMixerPCB\Volumemixer\Project Outputs for Volumemixer\odb\matrix\matrix
 
